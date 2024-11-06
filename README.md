@@ -28,6 +28,6 @@ In medical settings, capturing information from conversations between doctors an
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/medical-information-extraction.git
-   cd medical-information-extraction
+   git clone https://github.com/heydibyendu/nuextract.git
+   cd nuextract
 ```
