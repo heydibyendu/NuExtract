@@ -10,8 +10,6 @@ This repository provides a code framework for extracting structured medical info
 - [Example](#example)
 - [Template Structure](#template-structure)
 - [Output Example](#output-example)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
