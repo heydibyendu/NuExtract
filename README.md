@@ -1,4 +1,4 @@
-# Medical Information Extraction using Ollama API
+# Medical Information Extraction using NuExtract
 
 This repository provides a code framework for extracting structured medical information from doctor-patient conversations using the Ollama `nuextract` model. The model takes unstructured conversation text, extracts relevant medical information, and organizes it into a predefined template, useful for automating medical documentation and analytics.
 
