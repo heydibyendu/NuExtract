@@ -29,5 +29,5 @@ In medical settings, capturing information from conversations between doctors an
 ## Usage
 
 1. Define your input conversation text and extraction template.
-2. Use the extract_info function to retrieve structured information.
+2. Use the `extract_info` function to retrieve structured information.
 3. Print or save the results as needed.
